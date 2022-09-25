@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/Recipes/static/js/main.331be79a.js",
+    "static/media/fundoG.png": "/Recipes/static/media/fundoG.7417fae2c0eebf74b629.png",
+    "static/media/colher.png": "/Recipes/static/media/colher.054c6b97dc4435872d98.png",
+    "static/media/bolo.png": "/Recipes/static/media/bolo.6cf44c8d7f5868bef2f1.png",
+    "static/media/pizza.png": "/Recipes/static/media/pizza.ef2cf7030adf6676511e.png",
+    "static/media/vitamina.png": "/Recipes/static/media/vitamina.0430309e784773200e97.png",
+    "index.html": "/Recipes/index.html",
+    "main.331be79a.js.map": "/Recipes/static/js/main.331be79a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.331be79a.js"
+  ]
+}
