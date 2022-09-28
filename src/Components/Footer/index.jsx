@@ -22,7 +22,6 @@ export default function Footer(){
             <li>SUBSCRIBE</li>
         </S.Ul>
         </S.Nav>
-        
         </S.Footer>
         <S.Div>
             <p>Layout produzido por Vai na Web para fins exclusivamente educacionais. Referência: https://br.pinterest.com/pin/AVuDlMAl4GsQiM6nijH9YbG9bsNKpompSEOEHzig6GJ58AnUtMkSy7k/</p>

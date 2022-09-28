@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-// export const = styled.`` @media(max-width:1000px){
+// export const = styled.`` @media(max-width:500px){
     export const Main = styled.main`
     width:100%;
     margin-top:10px;
@@ -8,6 +8,7 @@ import styled from 'styled-components';
     background-color:#F2F4F1;
     display:flex;
     flex-direction: column;
+    
     h2{
         text-align: center;
         font-family:Arial, Helvetica, sans-serif;
@@ -31,7 +32,7 @@ import styled from 'styled-components';
     display: flex;
     width:100%;
     justify-content: space-evenly;
-    @media(max-width:950px){
+    @media(max-width:600px){
         flex-direction: column;
         align-items: center;
     }
