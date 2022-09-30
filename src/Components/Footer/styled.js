@@ -5,9 +5,10 @@ export const Footer = styled.footer`
 background-color: #F2F4F1;
 width:100%;
 height:25vh;
-@media(max-width:1000px){
+@media screen and (max-width:600px){
     height:10vh;
 
+      
 }
 `
 export const Nav = styled.nav`
@@ -15,6 +16,9 @@ display:flex;
 align-items:center;
 justify-content: space-between;
 padding:4%;
+@media screen and (max-width:600px){
+    flex-direction: column-reverse;
+}
 
 `
 export const Ul = styled.ul`
@@ -23,11 +27,15 @@ align-items:center;
 list-style:none;
 width:40%;
 justify-content: space-evenly;
+font-family:Arial,Helvetica,sans-serif;
+
 li:hover{
-    cursor:pointer;
+cursor:pointer;
 }
-@media(max-width:620px){
+@media screen and (max-width:600px){
     width:60%;
+    flex-direction: column;
+    
 }
 `
 export const Figure = styled.figure`
